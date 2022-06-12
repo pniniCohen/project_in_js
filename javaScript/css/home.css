@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+
+}
+#data{
+    border: pink 2px ;
+}
+
+
+.myShop{
+        background-image: url('../sim_03.jpg');
+        height: 100vh;
+        background-position: center;
+        background-repeat: no-repeat;
+}
